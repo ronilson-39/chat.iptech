@@ -1,0 +1,6 @@
+{
+  "name": "IPTech",
+  "description": "IPTech - Plataforma Omnichannel de Helpdesk e Atendimento ao Cliente com WhatsApp, Workflows, SLA, Equipes e Agente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
